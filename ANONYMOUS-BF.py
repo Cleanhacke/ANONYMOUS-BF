@@ -72,7 +72,7 @@ def add_number_to_name(s):
 custom_fig = Figlet(font='small')
 ascii_art_text = custom_fig.renderText('DEDSEC BF V2.0')
 
-# Définir les informations à afficher dans le cadre
+# afficher cette logo
 logo = [
 ██████╗░███████╗███╗░░░███╗░█████╗░███╗░░██╗░░░░░ 
 ██╔══██╗██╔════╝████╗░████║██╔══██╗████╗░██║░░░░░ 
