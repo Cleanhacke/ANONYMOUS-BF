@@ -76,7 +76,7 @@ ascii_art_text = custom_fig.renderText('DEDSEC BF V2.0')
 logo = 
 [
 "BY"
-    "DEMON ANONYMOUS"
+    "demon Anonymous"
 ]
 
 # Calculer la largeur du texte le plus large
